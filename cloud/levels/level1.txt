@@ -213,8 +213,8 @@ iglu
 1
 cms
 sys
-codedeploy
 ap-southeast-5
+codedeploy
 gov
 agea
 airflow
