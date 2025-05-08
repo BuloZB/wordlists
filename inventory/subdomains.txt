@@ -902,10 +902,10 @@ survey
 ncs
 kmdc
 uc
-status
 affiliate
 welcomescreen
 stn100bom
+status
 sagamino
 ppd-sbg-ledger
 pp
@@ -1478,7 +1478,6 @@ simplycomedy
 kat
 ip
 dr01
-digital
 desktop
 tracking
 sslvpn
@@ -1488,6 +1487,7 @@ mep
 green
 ep
 drydock-nc
+digital
 c002
 awscmh3
 update
@@ -1598,12 +1598,10 @@ cp
 clr1-a-gdc
 awscmh5
 voice
-videoclick
 trunk
 tel
 solutions
 reports
-pro
 org
 maas-nc
 ger
@@ -1612,6 +1610,7 @@ ewr002
 default
 volume-nc
 vl120
+videoclick
 venafi-python-automatedtest
 user
 sl1399257
@@ -1619,6 +1618,7 @@ secauto-dev
 sea
 sd
 satellite
+pro
 playground
 placement-nc
 orchestration-nc
@@ -1795,7 +1795,6 @@ ie1
 east
 clogin
 a1
-widget
 notes
 isoproxy
 epm-tmc
@@ -1833,6 +1832,7 @@ budapest
 bom001
 backend-staging
 awscorp
+widget
 test-simplycomputermerchants
 sonar
 sentry
@@ -2717,7 +2717,6 @@ cdo
 cas
 bchain
 batchjob
-atlantis
 apse3
 appygeek292977710107xx7x017com
 andreer
@@ -2835,6 +2834,7 @@ chg1b
 cart
 blackboard
 auk8b
+atlantis
 arizona
 apn2
 api2
@@ -3091,7 +3091,6 @@ dna
 dms
 dfw3
 dev6
-cz
 cse-z55i2kerisere10dvkv
 covidlpha
 china
@@ -3160,6 +3159,7 @@ enterpriseenrollment
 domains
 disk
 dayton
+cz
 csrt-agg01
 crowdtest
 cmp
@@ -3478,7 +3478,6 @@ rm
 richmond
 rice
 rel
-ref
 read
 r6
 purchase
@@ -3580,6 +3579,7 @@ smss
 sjc07s15
 siteintercept
 singapore
+ref
 rb
 radio
 qt
@@ -3956,7 +3956,6 @@ p1t
 orig
 ocs
 nsk
-notice
 netherlands
 nebulacicd
 nebraska
@@ -4103,6 +4102,7 @@ ord
 olemiss
 ohiostate
 o10
+notice
 nmpreps
 nebula
 ncomit
@@ -4281,7 +4281,6 @@ gra25
 fw1
 ftp2
 fresnostate
-flower
 fi8058
 epm-ddl
 eiam-sys
@@ -4431,6 +4430,7 @@ group20
 gra911
 gizmo
 fsl
+flower
 feconnect
 experience
 exclusives
@@ -4485,7 +4485,6 @@ atg
 asrunapirelease
 artifacts-nc
 art
-argo
 app3
 alabamavarsity
 agnes-amds-serving
@@ -4625,7 +4624,6 @@ floridastate
 flash
 fix
 fi1234helsinki
-features
 euv04
 eur
 et8
@@ -4676,6 +4674,7 @@ auk53a
 attachment
 atlassoa
 ashburn
+argo
 api-stg
 apar
 apache
@@ -4797,6 +4796,7 @@ group42
 gerrit
 formgate
 fly
+features
 fau
 ewr2
 euw
@@ -5644,7 +5644,6 @@ qa9
 pws
 pubmmr-zrdlfvsc5qflxzxy
 publisher
-ptr2
 prodv2
 prod-codd-admin
 ppd-sbg-pmts-msc
@@ -5964,6 +5963,7 @@ rebate
 rdg
 quickquote
 qld
+ptr2
 proxad
 produce
 prodaccountproxy-p
@@ -8997,7 +8997,6 @@ wdc
 wbgt
 watson-orchestrate
 was2
-wallets
 wall
 vxe-0-1-4
 vx53
@@ -11011,6 +11010,7 @@ wat-vcse-c1-3
 warriormale
 wargaming
 walmartone
+wallets
 waken
 waip3-twss
 wa-sdsu
@@ -48664,7 +48664,6 @@ server81
 server-775fc48e-c6f6-4
 sequoia
 sentiment
-sender
 sellpy
 selftest
 sekula
@@ -105057,7 +105056,6 @@ usw1-infaconnect
 usw1-cai-sfdc
 usw1-2-flk
 usuppliers
-ustrwg
 usse-smc
 ussdisweb01
 usscz2-bbisp-gw2
@@ -109130,7 +109128,6 @@ pricingserver
 pricingpromotions
 pricing-origin
 previpstatic
-previews
 preview-ussdk
 preview-qa33
 preview-qa3
@@ -122944,6 +122941,7 @@ usw1-1-flk
 usw0dq7
 usvoa
 usuqo07
+ustrwg
 ustream
 ustrc
 ussdisjenkins02
@@ -125703,6 +125701,7 @@ seplinks
 seolagos
 sensorsuite-preprod
 sensorsuite-autopush
+sender
 semserve
 semiokhin
 semarang
@@ -127498,6 +127497,7 @@ prh
 prgbdr01
 prfqy
 prff
+previews
 previewredirect
 preview-stage-dr
 preview-sh4
@@ -269198,7 +269198,6 @@ mobile-bta-qydc
 mobile-bff-uat
 mobile-bff-qa
 mobile-auth
-mobile-app
 mobile-api-prod-cloudflare
 mobapicorp
 mobapi
@@ -291682,6 +291681,7 @@ mobile-content-service-us-east-1
 mobile-checkout-uat-my
 mobile-checkout-dev-my
 mobile-auth-ca2
+mobile-app
 mobile-analytics-android
 mobicontrol
 mobi-s-dv
@@ -307313,7 +307313,6 @@ prizc-zkaueawpvhn2hnl4
 prizc-zjypulcqzedzm4d2
 prizc-zcs2tusnbmdhhpy7
 prizc-z656zuaabfihy6fg
-privy
 private-zzysuyklvub4nsyn
 private-zyy5fmoancnvzijv
 private-zwlvmnnjvdc3iclf
@@ -321135,6 +321134,7 @@ prizc-zzywd5mwygrapq5g
 prizc-zvuq4hd2jfpwgrvx
 prizc-ztdzamrd6gjdgorn
 prizc-zrftgufmb6oeesx3
+privy
 privghdatagitlab
 private2
 private-zsljvpw6kajmxq7s
@@ -326619,7 +326619,6 @@ czb-n1-westeurope-alert
 czb-28-westeurope-prom
 czb-15-westeurope-prom
 cz-web-dev
-cz-sender
 cyoa-elastic-wiki-service
 cyoa
 cyclone
@@ -367831,7 +367830,6 @@ urolithin-b
 urolithin-a
 urlllurll
 urlcase
-url9878
 url9463
 url9342
 url8843
@@ -375758,7 +375756,6 @@ symbioticproductsllc
 symaufob
 symantecvaliditychange
 sylveon
-sykda
 syhrpx
 syh
 syfsdtgsslp
@@ -376266,7 +376263,6 @@ studentreview
 studentportal-prod
 studentnicolas
 studentmail
-studenthub
 studentgrubhub3-autodiscover
 student360
 student2
@@ -405137,7 +405133,6 @@ mobile-global
 mobile-foundation-static
 mobile-feedback
 mobile-coverage
-mobile-content
 mobile-cms
 mobile-api-cloudstation-us-west-2
 mobile-api-cloudstation-us-east-2
@@ -407107,7 +407102,6 @@ mailoveradmin
 mailout6
 mailops-internal
 mailops
-mailnotice
 mailmktg
 mailman-wcfia
 mailman-rwj
@@ -444626,7 +444620,6 @@ czb-48-westeurope-prom
 czb-15-westeurope-alert
 czb-14-westeurope-alert
 czat
-cz-b
 cyz1f12xu00ca0p4c6jowf
 cytocity
 cytaccess
@@ -445131,7 +445124,6 @@ ctrx3
 ctrx2
 ctrx1
 ctrx-dcc
-ctrl-b
 ctricsock
 ctrfjk
 ctrci
@@ -476459,7 +476451,6 @@ _xmpp-server
 31-230
 30v52taa
 30spn5jfn6
-30razom
 30pic
 30okwannendengluqi
 30n2c9ask
@@ -522631,6 +522622,7 @@ urlshortener
 urlrw-anycast-blue
 urlmanager
 urldatabase
+url9878
 url9867
 url966
 url9438
@@ -550292,6 +550284,7 @@ sykoma
 sykeshelp
 sykehusapotekene
 syke
+sykda
 syimobile
 syifapasutri
 syi
@@ -576399,7 +576392,6 @@ shakoriel
 shakhnovich
 shaketh-staging
 shaketh-qa
-shaketh-prod-fallback
 shaketh-prod
 shakespeak
 shakeoutzrh
@@ -636257,7 +636249,6 @@ partners2024
 partners2
 partners1024
 partners1
-partners-v2
 partners-university
 partners-testing
 partners-test
@@ -658960,7 +658951,6 @@ otdelka7777777
 otda
 otcsupport
 otcprices-web-prd
-otcepay
 otcdesk
 otcbtc
 otcapi
@@ -685548,6 +685538,7 @@ mobile-elk
 mobile-ebwtolhweu
 mobile-design-patterns
 mobile-demo
+mobile-content
 mobile-cockpit-u
 mobile-cockpit-d
 mobile-cockpit
@@ -698281,6 +698272,7 @@ mailoi0-f1
 mailo365
 mailns
 mailnotifications
+mailnotice
 mailmyprescriptions
 mailms
 mailmonks-2700725
@@ -866127,12 +866119,14 @@ cz-stage26
 cz-stage24
 cz-stage
 cz-sk-vstupenka-do-raje-filmy
+cz-sender
 cz-sbc2
 cz-sbc1
 cz-prani-k-narozeninam-online
 cz-gw4
 cz-gw2
 cz-gw
+cz-b
 cz-a
 cyzocar
 cyznsm
@@ -870422,6 +870416,7 @@ ctrl1
 ctrl-vip
 ctrl-matters1
 ctrl-c
+ctrl-b
 ctrl-ablida-justicebcdashboard
 ctrh04
 ctremote
@@ -878997,7 +878992,6 @@ community-weather
 community-tu
 community-stg-origin
 community-static
-community-standards
 community-stage-cdn
 community-stage
 community-soccer-consulting
@@ -1015340,6 +1015334,7 @@ _ae
 30rock
 30rl001
 30rc121jose
+30razom
 30r1c111rqp8
 30r1c111rqp7
 30r1c111rqp6

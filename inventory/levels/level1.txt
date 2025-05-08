@@ -865,7 +865,6 @@ xdr
 sni
 inter
 gotslots
-digital
 brockwell
 acces
 rampart
@@ -874,6 +873,7 @@ mep
 mdcdn
 log
 loadtest
+digital
 corp-mssql-thekittencodandomain-controllererrs2019
 client
 teless
@@ -1625,7 +1625,6 @@ ssl
 snei
 sip
 shopping
-pro
 pms
 playstation
 parity-lab
@@ -1656,6 +1655,7 @@ sbx
 quickbooksonline
 qa1255simplycomputermerchantssimplycomputermerchantsstats
 prods
+pro
 portal
 passport
 parity-mgmt
@@ -2276,7 +2276,6 @@ emui
 dm2-em
 demos
 dannode
-cz
 cu-prod-or2-template-service-monolith
 cu-prod-br-field-service
 cs-systems-sandbox
@@ -2356,6 +2355,7 @@ dual-gslb
 dtcstudio
 dt
 datadev1
+cz
 cust
 cpcontacts
 commed
@@ -2853,7 +2853,6 @@ soteria
 smst290
 simplytapit
 simplycomputermerchantsdownload
-sender
 sdp
 scmdev
 school
@@ -3264,7 +3263,6 @@ orderbook
 op-prod
 onetv
 office-beta
-notice
 ninjas
 ninjaclans
 ngrok
@@ -3777,6 +3775,7 @@ omaha
 nov
 notifybf1
 notifications-sendgrid
+notice
 noe
 nevec
 neteng
@@ -7925,6 +7924,7 @@ server74
 server73
 seoul
 sentry
+sender
 selfemployed
 secproxy
 sceg
@@ -8819,7 +8819,6 @@ mp3
 mortgage
 mobilityresearch
 mobileapp-shield
-mobile-app
 mmap
 mis
 mirror
@@ -9390,6 +9389,7 @@ movie
 montclair
 moneta-staging
 moma10
+mobile-app
 mms
 mkmdcyz067074
 mjc
@@ -11905,7 +11905,6 @@ dallas
 dab
 da-dk
 d361
-cz-sender
 cvs-iad
 cvessel
 customers
@@ -16721,7 +16720,6 @@ waltonartscenter
 walterswish
 walt
 walnutcreek
-wallets
 walletapi
 wallet-tx
 wallet-smokebox
@@ -18385,7 +18383,6 @@ symphonygateway
 symphonyagent
 symbioticproductsllc
 sylveon
-sykda
 sye
 sydvpn
 sydteamsdr01
@@ -18591,7 +18588,6 @@ sturges
 stuishou
 studio1621
 studentmail
-studenthub
 sttest
 sts3
 striversgallery
@@ -23406,7 +23402,6 @@ mobile-foundation-static
 mobile-feedback
 mobile-faq
 mobile-dev
-mobile-content
 mobile-admin-staging-sbux
 mobilapp
 mobiel365
@@ -23921,7 +23916,6 @@ mailrelay6
 mailrelay5
 mailops-internal
 mailops
-mailnotice
 mailmktg
 maili
 mailhub
@@ -30324,7 +30318,6 @@ d1656
 d12302a8af4dad5
 cznf7o8ekr
 czlb
-cz-b
 cytaccess
 cytaaccess
 cyta
@@ -30484,7 +30477,6 @@ cu-prod-au-portfolios-api
 cu-prod-au-integrations-service
 cu-prod-au-inbound-emails-service
 cu-prod-au-dashboards-api
-ctrl-b
 ctricsock
 ctrci
 ctps
@@ -35392,7 +35384,6 @@ a-96-119-16-2
 3158
 311forest
 31
-30razom
 30pic
 30minutemenus
 3089456t
@@ -91945,6 +91936,7 @@ walletservice
 walletsdt-pre-production-o127ti
 wallets-sbg
 wallets-api
+wallets
 walletranslate
 walletra-status
 walletra
@@ -150901,6 +150893,7 @@ sykeshelp
 sykescottages
 sykehusapotekene
 syke
+sykda
 syimobile
 syifapasutri
 syi
@@ -186833,7 +186826,6 @@ shakmindianeatery
 shakira
 shaketh-staging
 shaketh-qa
-shaketh-prod-fallback
 shaketh-prod
 shakespeak
 shakeoutzrh
@@ -276275,7 +276267,6 @@ partners2024
 partners2
 partners1024
 partners1
-partners-v2
 partners-university
 partners-tg
 partners-testing
@@ -302222,7 +302213,6 @@ otcwsdev
 otcws
 otcsupport
 otconblockchain
-otcepay
 otcdesk
 otcbtc
 otcapi
@@ -345937,6 +345927,7 @@ mobile-diagnostics
 mobile-design-patterns
 mobile-demo
 mobile-coverage
+mobile-content
 mobile-config
 mobile-cockpit-u
 mobile-cockpit-d
@@ -364124,6 +364115,7 @@ mailo365
 mailns
 mailnotifysl00sys
 mailnotifications
+mailnotice
 mailnanotechnet2
 mailmyprescriptions
 mailmx
@@ -597324,12 +597316,14 @@ cz-stage26
 cz-stage24
 cz-stage
 cz-sk-vstupenka-do-raje-filmy
+cz-sender
 cz-sbc2
 cz-sbc1
 cz-prani-k-narozeninam-online
 cz-gw4
 cz-gw2
 cz-gw
+cz-b
 cz-a
 cyzocar
 cyznsm
@@ -601627,6 +601621,7 @@ ctrl1
 ctrl-vip
 ctrl-matters1
 ctrl-c
+ctrl-b
 ctrl-ablida-justicebcdashboard
 ctrl
 ctrh04
@@ -614786,7 +614781,6 @@ community-swagger
 community-subgraphs
 community-stg-origin
 community-static
-community-standards
 community-staging
 community-stage2
 community-stage-cdn
@@ -803288,6 +803282,7 @@ _ae
 30rock
 30rl001
 30rc121jose
+30razom
 30r1c111rqp8
 30r1c111rqp7
 30r1c111rqp6
