@@ -524431,7 +524431,6 @@ dinetime
 dineshopshare
 dinesafeto
 dinerwebsites
-dinersclub
 diners
 dinergy-api
 diner
