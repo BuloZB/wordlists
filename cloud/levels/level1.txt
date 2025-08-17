@@ -39446,7 +39446,6 @@ coinswitch
 coinflip
 coindeskuat
 coindesk
-coi
 cohesity
 cognosui
 cognizant-ja
@@ -111504,6 +111503,7 @@ coinbase
 coinbar
 coin-platform
 coiffure
+coi
 cohros
 cohnreznick
 coherent
@@ -214341,8 +214341,6 @@ statrack
 statprovider
 statping
 statpanel
-statnipokladna
-statnicloud
 statnext
 statlive
 statlink-stg
@@ -226305,7 +226303,6 @@ spd-test
 spd-br
 spcustomercare
 spctest
-spcss
 spcsimplgroup
 spcsdev
 spcs
@@ -245982,7 +245979,6 @@ segeditweb-dev
 segeditweb
 segcdn
 segcam
-segc
 segbytes
 segault
 segapi
@@ -506916,7 +506912,6 @@ egprl
 egprd
 egpenner
 egovjesolo
-egovernmentcloud
 egov-statepb
 egov-settings
 egov-compliance
