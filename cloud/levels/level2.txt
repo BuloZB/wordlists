@@ -2937,6 +2937,7 @@ aap-prod
 aap-gamma
 9410
 za
+web2
 wazuh
 wafv2-fips
 wafv2
@@ -3045,7 +3046,6 @@ aap
 yves
 workforce
 wg-ard
-web2
 web-dev
 vw-svw
 voip
