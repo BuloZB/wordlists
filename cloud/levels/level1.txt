@@ -162743,7 +162743,6 @@ tomtop
 tomtest3
 tomtest1
 tomta
-tomswiki
 tomsmoldersbv
 tomserp
 tomsena-wakelam
@@ -230222,7 +230221,6 @@ ricardodistefano
 ricardo-grund
 ricardo-frontend
 ricardo-application
-ricardo
 ricardjuan
 ricadmin
 ric-nonprod
