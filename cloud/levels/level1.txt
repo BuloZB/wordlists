@@ -60,11 +60,11 @@ identity
 p
 dbs
 rds
-com
 vpn
 md
 preprod
 ca-central-1
+com
 ap-southeast-2
 gw
 ap-northeast-1
@@ -175,7 +175,6 @@ dev-tools
 ctr
 np
 health
-gov
 in
 hsp
 pulse
@@ -189,6 +188,7 @@ iad
 codedeploy
 s3
 sub
+gov
 c
 private
 au
@@ -554,7 +554,6 @@ server
 174
 vocga
 library
-edu
 70
 230
 216
@@ -603,6 +602,7 @@ mx
 163
 159
 109
+edu
 art
 34
 254
@@ -986,7 +986,6 @@ mainnet
 lab-integration
 adoring-galileo-sjdxlz9
 va6
-org
 manage
 email
 cpt
@@ -1109,6 +1108,7 @@ am
 tickety
 prelive
 os
+org
 mdm
 wallet
 plat
@@ -6366,6 +6366,7 @@ scalar
 sbscloud
 sapns2
 sapecc
+samsung
 sad
 s01
 ruby
@@ -6970,7 +6971,6 @@ scd
 sbz
 saveris
 sapnp
-samsung
 saltshaker
 salesfront
 s102
@@ -31212,6 +31212,7 @@ gfn
 gfbinsurance
 gezora
 gevernova
+getsim
 getsign
 getmyboat
 getir2
@@ -35768,6 +35769,7 @@ bustrek
 bussys
 businesstaxprep
 businessservice
+businessregistration
 businessplan
 businesspartners
 businessolver2
@@ -61951,6 +61953,7 @@ mass
 masocp-i5vhmm
 masnpas
 maskviewer
+maskmail
 maski
 masivo
 mashmesh
@@ -93790,6 +93793,7 @@ ezinfo2pe
 ezinfo
 ezgo
 ezgeoasp
+ezepos
 ezecarrental
 ezdesk
 ezd
@@ -173577,6 +173581,7 @@ tnnapps
 tnmodelpy
 tnmall
 tnmag
+tnlrs-cms
 tnlnetworks
 tnlinfographic-rstudio1
 tnl-uk-uni-guide
@@ -178286,6 +178291,8 @@ testquote
 testquitmateportal
 testqr
 testqq
+testqpsprweb
+testqpsapp
 testqbic
 testqa-fe
 testpy
@@ -178578,6 +178585,7 @@ testmsi-auth
 testmsi
 testmsg
 testmqtt
+testmpsapp
 testmoodle
 testmongo
 testmon-sa
@@ -205803,6 +205811,7 @@ ss-psr-34340769
 ss-psr-34104615
 ss-prom-sec
 ss-prod
+ss-pro
 ss-oms-amazonapp
 ss-member-stage
 ss-mcp
@@ -224500,6 +224509,7 @@ selfcheckout
 selfcheck
 selfcert
 selfcaredemo
+selfcareapi
 selfcare-demo
 selfassist-assets
 selfassist
@@ -229754,6 +229764,7 @@ savings-origin-gcp-uat-pp
 savings-origin-gcp-prod
 savings-origin
 savinggrains
+savingford
 savingapp
 saving-mastodon
 savilab
@@ -246187,6 +246198,7 @@ recruits
 recruitmentplatform
 recruitmentexam
 recruitmentapp
+recruitment-webservice
 recruitment-uat
 recruitment-staging
 recruitment-server
@@ -251950,7 +251962,9 @@ qpulse
 qptimber
 qpt
 qpsurvey
+qpsprweb
 qpsetting
+qpsapp
 qps-valuation-use1
 qps-valuation-euw1
 qps-valuation
@@ -254104,6 +254118,7 @@ qa-ts
 qa-tropos-analytics-api
 qa-tropos-ai
 qa-travelrule
+qa-traveler
 qa-transporter
 qa-translate
 qa-transfer
@@ -254174,6 +254189,8 @@ qa-student-aws
 qa-stta
 qa-stream
 qa-strapi
+qa-store-cms
+qa-store
 qa-stg
 qa-stdmaint
 qa-start
@@ -254249,6 +254266,7 @@ qa-sentinel
 qa-semsearch
 qa-selfreg
 qa-selfhosted
+qa-selfcareapi
 qa-selene
 qa-seekql
 qa-secureapi
@@ -254280,6 +254298,7 @@ qa-saas-01
 qa-saas
 qa-sa
 qa-s3-kd
+qa-s3
 qa-s2s
 qa-s2-kd
 qa-s194
@@ -254564,6 +254583,7 @@ qa-msp
 qa-msg
 qa-mq
 qa-moviebuff-audio
+qa-motsim
 qa-monitoring-dmp
 qa-mohini
 qa-mohara
@@ -254607,6 +254627,7 @@ qa-master
 qa-marketplace
 qa-marketing-us
 qa-mapportal
+qa-mapp
 qa-manual
 qa-manteca-wh
 qa-management-environment
@@ -254822,6 +254843,9 @@ qa-git
 qa-ghapp
 qa-gh
 qa-gfdb
+qa-getsimnow
+qa-getsim
+qa-getesim
 qa-geometry
 qa-geograph-api
 qa-genix
@@ -254856,11 +254880,13 @@ qa-fleet
 qa-flask
 qa-fism
 qa-fiorisap
+qa-find-jobs
 qa-financial-dashboard-api
 qa-finances-api
 qa-filestorage
 qa-files
 qa-fc-api
+qa-fast24
 qa-fas-boss-netstars
 qa-fac-services
 qa-fac-batch
@@ -255091,7 +255117,9 @@ qa-cobrowse
 qa-cnam-pgs
 qa-cna
 qa-cmsweb
+qa-cms-wifix
 qa-cms-test
+qa-cms-selfcare-v2
 qa-cms-ext
 qa-cms-elb-cname
 qa-cms-api
@@ -255124,6 +255152,7 @@ qa-cement
 qa-cdp
 qa-cdn
 qa-cd-vcms
+qa-ccpg
 qa-cbselect
 qa-catalyst
 qa-case-be
@@ -255161,6 +255190,7 @@ qa-bot
 qa-booking
 qa-blog
 qa-blocks
+qa-blindspot
 qa-bizessence
 qa-billing-us
 qa-billing-eu
@@ -255400,6 +255430,8 @@ qa-8yn2kc5
 qa-8hd63nj
 qa-8
 qa-7
+qa-5gwifi
+qa-5gesim
 qa-3cx
 qa-30025203
 qa-2gw16c-waf
@@ -289527,6 +289559,7 @@ opensnowcat
 opensky
 opensitysolutionsnonprod
 opensitysolutions
+opensis
 opensips-stage
 opensimon
 opensim
@@ -290453,6 +290486,7 @@ onsport
 onsnowtraining
 onslaught
 onskinery
+onsitevisit
 onsitetraining
 onsitescoring-new
 onsitescoring
@@ -310937,6 +310971,7 @@ nanomastermaster-dev
 nanomaster-studio-demo
 nanomaster-studio
 nanomaster-app
+nanoloan
 nanolending-api-uat
 nanolending
 nanogrid-api
@@ -314227,6 +314262,7 @@ mxp-aws-search
 mxout01
 mxoptima
 mxo
+mxm
 mxlminingsolutions
 mxj
 mxipro-asda
@@ -317535,6 +317571,7 @@ mpsedc-procuremate
 mpsedc
 mpsc
 mpsbankportal
+mpsapp
 mpsa-api-stg
 mpsa
 mps03
@@ -318161,6 +318198,7 @@ motultech
 motto-go
 motto
 mottmac
+motsim
 motroot
 motpr
 motpl
@@ -318710,6 +318748,7 @@ moranbahgolfclub
 moralis-svc-prod
 moralis-svc-dev
 moralis
+morakot
 morakab-test-a84jsnwyqgl
 moraex
 moraenterprises
@@ -328278,6 +328317,7 @@ mefpd
 meflow
 mefacilapi
 mef-dev
+mef-bakong
 meezan-tijara-test
 meetzeplumbing
 meetyukon
@@ -331187,6 +331227,7 @@ mbes-smc
 mberlaw
 mbepapersdev
 mbelectrical
+mbela
 mbeinc
 mbeatms
 mbe-test
@@ -366152,6 +366193,7 @@ khs-voip
 khs-bestellung
 khronos
 khradm
+khqr
 khpwr
 khpoon36
 khp-admin
@@ -384539,6 +384581,7 @@ in0415
 in01nws
 in01-iocloud
 in007oc
+in-wintertime-desire-is-over-bearing
 in-west
 in-websapi
 in-webs
@@ -392442,6 +392485,7 @@ hr001oc
 hr0001
 hr0000000001
 hr-zambia
+hr-webportal
 hr-web
 hr-uat
 hr-tools
@@ -407623,6 +407667,7 @@ gmb-registration-ui
 gmb-registration
 gmb-api
 gmauto-iam-cdn
+gmatrix
 gmatplanner
 gmatmock
 gmate
@@ -410382,6 +410427,7 @@ getsolutionapi
 getsns
 getsmartprotection
 getsmart
+getsimnow
 getshyft
 getsetknow
 getset
@@ -410469,6 +410515,7 @@ getfiles-au
 getfiles
 getferti-api-dev
 getfantasy
+getesim
 getenterprise
 getenergy
 getemolfi
@@ -423098,6 +423145,7 @@ findagencyapi
 findadultfostercare
 find28-admin
 find-test
+find-jobs
 find-by-feature-prd
 find-api-preprod
 find-a-locksmith
@@ -426565,6 +426613,7 @@ fastambulanceservice
 fastagtest
 fastage1
 fasta2airr
+fast24
 fast21
 fast2
 fast1
@@ -446414,6 +446463,7 @@ e-learningapcs
 e-learning2
 e-learning01
 e-learning-staging
+e-learning-platform
 e-learning-mcgraw-hill
 e-learning-lb
 e-learning-dev
@@ -446632,6 +446682,7 @@ dynamitedigital
 dynamiqmt
 dynamicwindows
 dynamictradedemo
+dynamictms
 dynamicsurvey
 dynamicsupport
 dynamicstudio
@@ -477848,6 +477899,7 @@ cusezar
 cusdesign
 cusdemo
 cuscon
+cuscen
 cus21
 cus0-prepoc
 cus0-dryrun
@@ -491954,6 +492006,7 @@ cms-sumoutowera
 cms-ststaffform
 cms-ststaff-kyujin-aruaru
 cms-storingen
+cms-store
 cms-stg3
 cms-stg2
 cms-stg-sd
@@ -491988,6 +492041,7 @@ cms-sftp
 cms-services
 cms-service
 cms-sellingpartners
+cms-selfcare-v2
 cms-se
 cms-sdbx
 cms-sd
@@ -492193,6 +492247,7 @@ cms-cloud
 cms-client
 cms-class3
 cms-cib
+cms-ccpg
 cms-calculator
 cms-cacheserver
 cms-buy
@@ -512221,6 +512276,7 @@ cafpi
 cafoscari
 cafo
 cafm
+cafiu
 cafis-dev
 cafis-admin
 cafirma
@@ -532802,6 +532858,7 @@ barwick
 barwa
 barussi-site
 baruna
+barun-crm-api
 baruch
 bartvanareypharmacymaraborough
 bartsandbox
@@ -533835,6 +533892,9 @@ baku-staging
 bakte-paloalto
 bakshlaw
 baksheesh
+bakong-uat
+bakong-academy
+bakong
 bakode-api
 bakoapi
 baklava-api-gamma
@@ -553114,6 +553174,7 @@ apineapple-prev
 apineapple-dev
 apincidencias
 apinative
+apinanoloan
 apinacionalre
 apina
 apin8n
@@ -585883,12 +585944,14 @@ _
 5hospitality
 5hgpt92ecxad
 5gxr
+5gwifi
 5gweb
 5gstudio
 5gosei
 5gn
 5gkpi
 5ghp89
+5gesim
 5g-emerge
 5g
 5ftview

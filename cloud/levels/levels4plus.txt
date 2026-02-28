@@ -174,9 +174,9 @@ cmh
 portal
 argocdaas
 stage
-uat
 nrt
 ingest
+uat
 sin
 backend
 fra
@@ -23089,7 +23089,6 @@ qa-green-us
 qa-green-eu
 qa-grafana
 qa-fips
-qa-e-arrival
 qa-client
 qa-cf
 qa-blue-us
@@ -36116,7 +36115,6 @@ hrauicicd
 hrauiacptg
 hrauiacpt
 hrarcusdv-us-west-2
-hr-mobile
 hr-chatbot
 hr
 hqfgs00emodhi
@@ -79168,7 +79166,6 @@ e00078434e1d9a643d45fcd10b2eb223
 e0004f144b958df413a06e697fe6df65
 e-sign
 e-drivetech
-e-arrival
 dzr-wifi-amzn-us-west-2-fa88
 dzr-wifi-amzn-us-west-2-b020
 dzr-wifi-amzn-eu-west-1-9af7

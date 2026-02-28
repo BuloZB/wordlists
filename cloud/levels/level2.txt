@@ -163,8 +163,8 @@ au
 login
 ext
 webmail
-ai
 redshift
+ai
 233
 docs
 search-services
@@ -542,15 +542,14 @@ nww
 payments
 lists
 barrister
-go
 eks-cluster-beta
 dev3
 db
 curtain
 travel
 hc-devus
+go
 fargate
-ats
 aosm
 usw2
 res
@@ -559,6 +558,7 @@ receiver
 paets
 git
 dp
+ats
 147
 qa2
 pro
@@ -1514,7 +1514,6 @@ aha-availability-preprod
 43
 106
 xrab
-verify
 tsm
 terminal
 ssm-gamma
@@ -1539,6 +1538,7 @@ cmp
 as
 an1
 115
+verify
 test3
 temporal
 sto
@@ -1601,7 +1601,6 @@ messaging
 lp
 lite
 groot
-example
 dra-company-365
 documents
 dmz
@@ -1653,7 +1652,6 @@ members
 lxp
 jaeger
 ims
-form
 en1
 deployment
 cloud9
@@ -1761,6 +1759,7 @@ licensing
 iot-fips
 internal-aws
 gamelift
+form
 feed
 eu-west
 eolas-office-365
@@ -1996,6 +1995,7 @@ foundry-api-staging
 forklift
 finder
 fhir
+example
 events-notifier
 euwe1
 es1
@@ -2014,7 +2014,6 @@ concord
 cognito-identity
 codenotification
 cloudops
-cellcard
 cdn-alpha
 catalyst
 ca-dcn-dev
@@ -2746,7 +2745,6 @@ etl
 esp
 elb-dp-internal-service
 ec2-mis-v2-website
-dynamic
 dxb
 drupal11
 downloads
@@ -2921,6 +2919,7 @@ fabric
 er
 emr-containers
 ec2-watson
+dynamic
 dss
 drprd
 dream
@@ -2978,7 +2977,6 @@ paas
 overdrive-gamma
 otel
 o0em-7bxj
-nbc
 mo
 mirabilis
 metering
@@ -4261,7 +4259,6 @@ milo
 mh
 mfe
 meter
-maxima
 marykayintouch
 lrs
 login-app
@@ -4535,7 +4532,6 @@ int2
 incentives
 ihsservice
 ihmecogateway
-ics
 hotfixaws
 hcm
 hb
@@ -4803,6 +4799,7 @@ iicsassurance-qa-pod1
 ihmmoss
 idv
 idf
+ics
 icinga
 ia2
 hub-82
@@ -6379,7 +6376,6 @@ redirects
 recorder
 recon
 rec-eng
-realestate
 reach
 rbc
 r6s
@@ -6772,7 +6768,6 @@ canopy
 callcenter
 callbacks
 cadence
-cab
 c01
 bvt
 busoperatorassessment
@@ -7110,6 +7105,7 @@ reciprocity
 recipeexecution
 reception
 receiver02
+realestate
 rdg-uk-tp-prod
 rdev
 rcsscc-apac-test
@@ -7417,7 +7413,6 @@ gendev-sandbox
 genai-api
 gcm-stage-pyhihdvr
 gcm-dev-x88lq9ap
-gbstech
 gard-cf-0112
 garage
 gamma-af-south-1-adam
@@ -7438,7 +7433,6 @@ frequency
 freight
 foxtrot
 formacion
-ford
 focal
 fluid
 fleetdm
@@ -8629,6 +8623,7 @@ forward
 forums
 fortdocs
 forest
+ford
 fn
 flight-center-insurance
 fix
@@ -9031,7 +9026,6 @@ yara
 yanliu-s
 xsp
 xra
-xp
 xor
 xlarge-aws-16
 wynward
@@ -9640,7 +9634,6 @@ monitoring-fips
 mom-ui
 mom-serviceworker
 mohamed
-moh
 modernisation-platform
 moderator
 mockbank
@@ -10768,6 +10761,7 @@ y
 xyz
 xxt9ah
 xx
+xp
 xe
 x-genenablingservice
 www-filter
@@ -11614,6 +11608,7 @@ ncacs-test
 ncacs-ci
 ncaaw
 nbs
+nbc
 nats-dev
 natasha
 nat
@@ -11648,6 +11643,7 @@ mosc-dev
 moptimus-client-dasboard
 momoney
 mohreda
+moh
 model-gateway
 mobius
 mobile-gateway
@@ -11919,7 +11915,6 @@ housingbayarea
 hotspot
 hospitality
 hopes
-hope
 hongkong
 honda-uc
 homo
@@ -12743,7 +12738,6 @@ afore
 afc
 af1
 aesculap
-aeonmallcambodia
 aec
 adx
 advertising
@@ -13080,7 +13074,6 @@ unstructured
 unstable-green
 unlock
 unlimited
-university
 universe
 unirecs-visualisation-tool
 unirecs-stub-gateway
@@ -13544,7 +13537,6 @@ sim-ticketing-preprod
 silverstripe
 silver-manager
 signer-fips
-siemreap
 sibyl
 shp
 showme
@@ -14512,7 +14504,6 @@ moderation-api
 modav-docker
 modav
 mock-morpheus
-moc
 mobiusflow-mqtt
 mobiusflow
 mobile-test
@@ -15104,7 +15095,6 @@ ifoa
 ifmd
 iep
 ie1-ix
-idpoor
 idpconfig
 idp-uat
 idp-gateway
@@ -15138,7 +15128,6 @@ ict
 icons
 icn1
 icecap
-ibs
 ibox
 iberia
 iap-pro-1
@@ -15178,6 +15167,7 @@ hrueck
 hpdev
 hot97
 horus
+hope
 honest-health
 homologa
 homewav
@@ -15419,7 +15409,6 @@ g74ygg
 g5
 fz
 fxgravity-biq
-fwd
 futen-reception
 fuso
 fusionaccess
@@ -16430,7 +16419,6 @@ championsoncology
 chambre
 cgw
 cgsh
-cgmc
 cgc
 cfn
 cfi
@@ -17494,7 +17482,6 @@ www-test
 www-qa
 wwf
 wvm0
-wvi
 wv56
 wurth
 wtwr
@@ -18235,7 +18222,6 @@ tlp
 tj8b
 tj0e
 tiptap
-tipcoasphalt
 tinkerbell-sidecar
 tinkerbell-internal
 tinkerbell
@@ -19683,7 +19669,6 @@ pqtprod
 pqab
 ppux
 ppmed
-pplinksecurities
 ppd-sbg-pmts-merchantaccount
 pp55
 pp-cdn
@@ -21782,11 +21767,11 @@ icaro
 ical
 ic3h
 ibs-dev
+ibs
 ibproxima
 ibn-fco-api
 ibn-cc-api
 ibc
-ibank
 ibadmin
 iaxn
 iats
@@ -22340,6 +22325,7 @@ fxa4
 fx-monitor
 fwsim-uat
 fwsim
+fwd
 fw01
 fvp
 fususcore-api-manufacture
@@ -26148,7 +26134,6 @@ work-instructions
 wordpress-internal
 word-wisdom-rabbit-fork-horse
 word-tag-teacher-report
-wooribank
 woolworths-dev
 woodside
 woodpecker-dev
@@ -27257,6 +27242,7 @@ unleash-edge
 unknown-wax
 unknown
 uniyemek
+university
 universe-eu
 universe-dev
 universal-webcast-service
@@ -30010,7 +29996,6 @@ sbm
 sbl
 sbkh-argo
 sbkh
-sbilhbank
 sbi
 sbc2
 sbc1
@@ -30365,7 +30350,6 @@ rpc-v5-executor
 rpaapi
 rpa2
 royalmail
-royalgroupfunds
 royalgreenwich
 royalgloball
 roy
@@ -30383,7 +30367,6 @@ route-map
 routable-vicmap
 roundtable
 rotten-houses-learn-sleepily
-rotati
 rota
 roster
 ross
@@ -30508,7 +30491,6 @@ rh-hosyusys
 rgw
 rgukfuekhnkjveg
 rgui
-rgppsez
 rgpp-api
 rgpp
 rgf44
@@ -35725,7 +35707,6 @@ ki
 khusix
 khoa-sandpit-build
 kho-webbfs
-khland
 khipunetworkslabdemo
 khdev
 khc8it3
@@ -35745,7 +35726,6 @@ kfw-staging2
 kfuse
 kfupm
 kfshd
-kfourgroup
 kforcecms
 kfm3
 kfm2
@@ -36410,7 +36390,6 @@ itools
 itn
 itms
 itmc
-itlink
 itl-test
 itl-ati-pa
 itl-ati-gli
@@ -38579,7 +38558,6 @@ goliat
 golf-m1
 golemapi
 golean
-goldwellcap
 goldrushcity
 goldenmama
 goldenkey
@@ -38711,7 +38689,6 @@ gkoutsa
 gkm4
 gkl-webbfs
 gkids
-gkfxcambodia
 gke-1
 gkcng
 gkaws
@@ -42030,7 +42007,6 @@ dopatravelapp
 doopage
 dook
 doo
-donmanhishop
 doniamariav2
 donavi
 donall-ci
@@ -43883,7 +43859,6 @@ cpecom-non-prod
 cpdv
 cpdb-global
 cpcgi
-cpcambodia
 cpc-2249-test-0
 cpbathomepp
 cpbathomep
@@ -44924,7 +44899,6 @@ chordship
 chopper
 chopard-back-1pv
 cholangiocarcinomafoundation
-chokchey
 chocoautumn
 chobreakup
 choaplvpn-az2
@@ -45280,7 +45254,6 @@ cd-deploymentgroup-service-beta
 cd-deploymentgroup-service
 ccyp-14
 ccx-watchfuleye
-ccubank
 cctool-qa
 cctool
 ccsp-int
@@ -45645,6 +45618,7 @@ cabosav
 cableantena
 cabfac
 cabco
+cab
 caas-test
 caas-rest-api
 caas-prod
@@ -46420,7 +46394,6 @@ bicssoar
 bics-ppe-soar
 bicnepal
 bice
-bicbank
 bibliotecas
 bibliotecahmg
 bib
@@ -48404,7 +48377,6 @@ amrtimes
 amrock-us-west-2
 amrock-us-east-2
 amrock-us-east-1
-amret
 amq
 ampstg
 amplify-stage
@@ -48465,7 +48437,6 @@ amazonie
 amazoncs
 amazon-subs-svc
 amazon-pilot
-amatakcapital
 amas-test-01
 amaps-ng-01
 amap
@@ -48508,7 +48479,6 @@ alrichey
 alpian
 alphinance
 alphatec
-alphagoldfutures
 alphacrucis
 alpha4
 alpha-redbts-us-east-1-adam
@@ -51955,6 +51925,7 @@ wvt
 wvqmpjt
 wvoice
 wvideo
+wvi
 wvdev-license-proxy
 wv01
 wv-sandbox
@@ -52711,7 +52682,6 @@ wmd-shipping-console-v2
 wmcfntest
 wmce
 wmcd-webshop
-wmc
 wmas
 wmapi
 wma
@@ -54125,7 +54095,6 @@ wbm-datahub-sles
 wbls
 wbk-dev
 wbjones
-wbid
 wbhk-qa
 wbgt
 wbeli
@@ -80812,7 +80781,6 @@ rh799n4hfq
 rh6l
 rh47jxr7pa
 rh-nightly-pm
-rgx
 rgperio
 rgpd-preprod
 rgpd
@@ -82367,7 +82335,6 @@ reapi-uat
 reapi-dev
 reapi
 reap-agent
-rean
 reames
 reamaze-test
 reamaze-prod
@@ -84620,6 +84587,7 @@ qa-elb
 qa-ecs-global
 qa-ebics
 qa-eb-api
+qa-e-arrival
 qa-dynonobel-rfp
 qa-dx
 qa-dtleasing
@@ -91086,7 +91054,6 @@ phillyshipyard
 philly
 phillipyates
 phillips66
-phillipbank
 philipyoungdds
 philips-testing
 philips-demo
@@ -93283,7 +93250,6 @@ pandax
 pandapost
 pandaparser
 pandanest
-pandabank
 panda-failures
 pand-qa
 pand-dev
@@ -97898,7 +97864,6 @@ non-cde-load-test-monitoring
 nomy-tc2
 nomuratestdrive
 nomura
-nomsa
 noms
 nominea
 nominated-day
@@ -102277,7 +102242,6 @@ mohamed-elesnawy
 moh-drspeech-testing
 mofinvest
 mof
-moeys
 moey
 moestaging
 moem-sl
@@ -102417,6 +102381,7 @@ mocaservice
 mocalc
 mocak
 moc-demo
+moc
 moby-qa
 mobvoi-googleretailtraining
 mobuhouse
@@ -102947,7 +102912,6 @@ mk13
 mjv4xumb6q5v
 mjtov20wpo6oszqx
 mjspangl
-mjqeducation
 mjp
 mjnurw8hwtzy
 mjnovs
@@ -105079,7 +105043,6 @@ mcp-admin
 mcorner
 mconsent
 mcongel
-mcnc
 mcnairch
 mcmtools
 mcmis
@@ -109649,7 +109612,6 @@ lodging-content-app
 lodging
 lodgelumber
 lodestone-bom
-loda
 lod
 locutus-commands-dev
 locutus-commands
@@ -112709,7 +112671,6 @@ kojamo
 koiviston
 koitoo
 koi
-kohsantepheapdaily
 kohkun
 kohgendo
 kohbahm
@@ -116422,7 +116383,6 @@ israelspropertyservices
 israel
 isqe
 ispy
-ispp
 isporsearch303
 ispecx
 isp1
@@ -173559,7 +173519,6 @@ immodb
 immobilizer
 immobilien
 immobili
-immigration
 immersivetechnologies-dev
 immersivelabs
 immersion
@@ -174654,6 +174613,7 @@ ibc4j9z1g4j6
 ibc-stores-it
 ibc-lab
 ibaranau
+ibank
 ibaiwx
 ibaconsultants1
 ib1we4d
@@ -175567,6 +175527,7 @@ hr-stg
 hr-sim
 hr-request
 hr-prod
+hr-mobile
 hr-llm-prod
 hr-extsys
 hr-ecosystem-stg
@@ -176317,7 +176278,6 @@ hitachibank
 hitachiastemo-test
 hitachiastemo-devl
 hitachiastemo
-hitachi-elevator
 hit-healdb
 histprecip-dev
 histprecip
@@ -177410,7 +177370,6 @@ hanzapps
 hanyouji
 hanwss01
 hanwens
-hanumanbeverages
 hanuman
 hanssens
 hansoft-web
@@ -199185,6 +199144,7 @@ e-cidade
 e-care-24mm
 e-care
 e-briefing-atr
+e-arrival
 e-api-t
 e-api-d
 dzu13q
@@ -210598,7 +210558,6 @@ creditcontrolv2
 creditcontrolv1
 creditcardacquiring-externalapi
 creditcard
-creditbureau
 creditapp
 creditapi-stage
 creditapi
@@ -212705,7 +212664,6 @@ comms-notifications-dev
 comms-livesports
 commportal
 commpart
-commot
 commonwelluat
 commonwell
 commonwealthhc
@@ -219645,7 +219603,6 @@ cambridgenhs
 cambridgecacvpn
 cambridgeauto
 cambriacollogin
-cambodianpeoplemicroinsurance
 cambium
 cambios
 cambioreal
@@ -219820,7 +219777,6 @@ cagece
 cag
 caflash-preprod-back
 caflash-back
-cafiu
 cafirestop
 cafft-int
 cafft
@@ -224687,7 +224643,6 @@ bianca
 biahj
 biagios
 biac7u
-bia
 bi8-apt
 bi8
 bi7-azure
@@ -231913,7 +231868,6 @@ ath
 atgmit2023
 atge
 atg-prd-app
-atfx
 atfbtv
 atf-gcp-okd-86
 atf-celcom
@@ -232759,7 +232713,6 @@ arrowhealth
 arrowcompaniesllc
 arrow-beta
 arrivals
-arrival
 arrigomargate
 arrigofortpierce
 arrhu
@@ -234150,7 +234103,6 @@ apn-crm-integration-engg
 apmui
 apmod-reports
 apmmarkets
-apmfi
 apm-v2-sufi
 apm-sufi
 apm-obm-35f
@@ -238246,7 +238198,6 @@ akella
 akebono-uat
 akebono
 ake1
-akctv
 akceli-wordpress
 akca
 akc999-keycloak

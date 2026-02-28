@@ -72,8 +72,8 @@ s3
 eu-west-2
 office
 15
-web
 ca-central-1
+web
 16
 use1
 10
@@ -93,8 +93,8 @@ hex01
 ingest
 ap-northeast-2
 grafana
-service
 personal
+service
 login
 sandbox
 ext
@@ -226,7 +226,6 @@ uk
 1
 z1
 cvs
-crm
 ca
 47
 metadata
@@ -234,6 +233,7 @@ green
 dp
 z2
 limits
+crm
 ava-eks-1
 monitoring
 keycloak
@@ -358,7 +358,6 @@ us1
 96
 octopus
 ms
-mail
 jp
 sagemaker
 r8
@@ -370,6 +369,7 @@ ml
 jnj-migrated
 garbagecollection
 s1
+mail
 video-decoder
 tm
 octo
@@ -430,7 +430,6 @@ knowledge-graph
 sit
 remo
 p
-n8n
 dsis
 dems
 dd
@@ -438,6 +437,7 @@ dcps
 dais
 az0
 subscription
+n8n
 enrichment
 backend-gateway
 az2
@@ -543,7 +543,6 @@ socket
 pl
 mdl
 dr
-api-dev
 56
 spr
 runtimeservice
@@ -552,6 +551,7 @@ event-na
 deepsurface
 central
 bid-na
+api-dev
 activation
 redbutton
 recomm-data
@@ -659,7 +659,6 @@ gamma-us-east-1
 booking
 backup-storage
 655-8a
-webmail
 webhooks
 streams
 replicationevcache
@@ -675,7 +674,7 @@ fed
 east
 ci1
 artifactory
-store
+webmail
 stable
 shared
 sales2
@@ -693,6 +692,7 @@ atlas
 areti
 40
 uwfndnsvc
+store
 pgadmin
 pcf
 payment
@@ -859,7 +859,6 @@ throttling
 ssl
 rivendell
 qa3
-otp
 mlflow
 marketplace
 mainnet
@@ -881,6 +880,7 @@ acm-internal
 timon
 tfli-dev
 s3-control
+otp
 oots
 onebox-prod
 ob
@@ -888,7 +888,6 @@ no
 mx
 maps
 kraken
-jira
 git
 ec2-cred-authorization
 ds-prodpreview
@@ -918,6 +917,7 @@ lco
 kinesisanalytics
 k2service-gamma
 job-orchestrator
+jira
 img
 exceed
 evolve
@@ -936,7 +936,6 @@ api2
 anyscale-frontend
 acs
 workflow-automation-agent
-webdisk
 poseidon
 pod1
 oidc
@@ -947,7 +946,6 @@ hub-82
 hub-2
 envoycert
 ec2messages
-cpanel
 cortex
 control-plane
 conn-quality-agent
@@ -958,6 +956,7 @@ aws-us-west-2
 applicationinsights
 api-extended
 2
+webdisk
 virgin
 test2
 syd
@@ -975,6 +974,7 @@ home
 evolve-new
 emr-serverless-gamma
 emr-serverless
+cpanel
 codedeploy
 chatbot
 cellblock-captcha-canary
@@ -1043,8 +1043,6 @@ gold
 falcon
 email-border
 docstore
-cpcontacts
-cpcalendars
 cdpvctragg
 cas
 camr
@@ -1068,6 +1066,8 @@ gamma-na
 ent-search
 dse
 depot
+cpcontacts
+cpcalendars
 codecommit
 cluster
 channel-assembly
@@ -1900,7 +1900,6 @@ ue2
 uae
 transfer
 trace
-tms
 term
 tenantui
 tamale
@@ -1976,7 +1975,6 @@ in10
 idt
 idm
 hydra
-hrm
 gke
 gifs-wes-prod
 gifs-wes-pfix-cat
@@ -2048,6 +2046,7 @@ us-west-2-prod
 us-east1
 trs
 trn
+tms
 tgt-shr-prod
 tgt-pe-prod
 test3
@@ -2215,6 +2214,7 @@ il
 ies
 hubio-api
 hub-83
+hrm
 hr
 hotfix
 homolog
@@ -3523,7 +3523,6 @@ fd
 fabl
 export-opportunities
 europe-west1-b
-erp
 eng
 employee
 embed
@@ -5077,6 +5076,7 @@ express
 exchbeta
 eventprocessor
 europe-west3
+erp
 eo
 emea-v1
 edp
@@ -5198,7 +5198,6 @@ ptfe
 pss
 proviewsites
 productstore
-products
 product-help-reranker
 product-help-pam-classifier
 product-help-bert-classifier
@@ -5236,7 +5235,6 @@ mng
 micro
 mfmvc
 message1
-mdm
 mdcloud
 matomo
 marketplace-dev
@@ -7631,7 +7629,6 @@ workorder-gen
 workorder
 wh
 web1
-wazuh
 watchtower-prod
 vm
 viewer
@@ -7690,6 +7687,7 @@ public-gateway-api
 prtest02
 prototype
 prompts
+products
 prod-us
 prod-internal
 prod-ca-central-1
@@ -7737,6 +7735,7 @@ metrics-server
 merchant-feature-management
 menu
 meilisearch
+mdm
 mddb
 mcs2
 mcs-push-server
@@ -11267,6 +11266,7 @@ weather-service-thunder-discrepancy-logger
 weather-service-thunder-admin
 wc
 wbs
+wazuh
 w2
 vpnas
 vpce-svc-0a899438a1e206b06
@@ -15838,7 +15838,6 @@ delivery-ent
 decisions
 ddp
 dcap
-dc
 dazzler
 datasync-gamma
 dataiku
@@ -21648,6 +21647,7 @@ demo-hc-3-bds-hc-dev
 delta-sharing
 delivery-api
 default-cert
+dc
 dbx-prf-aws-bds-hc-dev
 datastore
 data-hubs
@@ -21879,7 +21879,6 @@ trials
 trecs
 transaction
 trading
-trade
 tracfone
 tpe6
 tni
@@ -29477,6 +29476,7 @@ troubleticket
 triage
 transact
 trading-dev
+trade
 track
 tracing
 tpr
@@ -37470,7 +37470,6 @@ database
 data1
 data-warehouse
 data-gateway
-data-api
 d1
 d067840-hdl-hc-dev
 d057358-44-hdl-hc-dev
@@ -37555,7 +37554,6 @@ cavs-qa
 cavs-prd
 cavs-dev
 cavalo
-careers
 cards
 candela
 cae-lb
@@ -38377,7 +38375,6 @@ sarahtest1-orc-hc-dev
 sarahtest1-hdl-hc-dev
 sarahtest-orc-hc-dev
 sarahtest-hdl-hc-dev
-samsung
 salon
 salesportal
 salescoach-backend
@@ -38983,7 +38980,6 @@ mmb-d-8l56rku
 mls-eu
 mjnurw8h
 mizufuru
-mis
 mir-api
 minsaitlab-1-d91pygm
 mini
@@ -46393,7 +46389,6 @@ iconbackend
 icon-3174186
 icinga2
 icam
-ibanking
 iad-alpha
 ia-api
 i869489-orc-hc-dev
@@ -47140,6 +47135,7 @@ dataapi
 data-portal
 data-force
 data-cd
+data-api
 data-alb
 dashboarddata
 das-uk-v4
@@ -47512,6 +47508,7 @@ cas-oppija
 carina-v2-theming-alb
 carina-v2-glyphs-app-alb
 carey-nonprod
+careers
 card-webhooks
 canvass-stage
 canvas
@@ -48473,7 +48470,6 @@ temporal-ui
 telemeter-prod
 telecel
 team
-teach
 td
 tcu01
 tawkifyapp
@@ -49857,7 +49853,6 @@ logdemo
 logapi
 location-grant-authorizations
 local-api
-loans
 loader
 lnagendr-test9
 lnagendr-test1
@@ -56839,6 +56834,7 @@ ibp
 ibm-wca
 iberia
 ibaranau
+ibanking
 iap-v2
 iam-int-1-eks-us-east-1
 iam-gamma-test
@@ -57085,7 +57081,6 @@ ghe1
 ghe
 gha
 gf-produccion
-getsim
 geoviewer2
 geospatial
 geometry-editor
@@ -58154,7 +58149,6 @@ c01
 c-4
 buyer
 busintop
-businessregistration
 businesscardaanvragen-backend
 busapp
 buddyms
@@ -59909,6 +59903,7 @@ tech
 teams
 team-pm-saxena
 teacher-api
+teach
 tea-api
 te01
 te-tt-api-vm
@@ -60582,6 +60577,7 @@ sandbox-openop-api
 sandbox-kaura
 sandbox-cluster
 sandbox-api-gateway
+samsung
 sams
 sampleapp
 samgeo
@@ -62208,6 +62204,7 @@ mkam01-dpelruip
 mixpanel
 mitv
 misc
+mis
 mirth-connect
 miraclebox
 mira-test
@@ -62408,7 +62405,6 @@ masters
 mastermind
 masterdata
 master-assets
-maskmail
 mas9
 mas2
 marykay-ext
@@ -62480,7 +62476,6 @@ mail5b-dr
 mail5b
 mail5a-dr
 mail5a
-mail2
 mail01
 mail-prd02
 mail-prd01
@@ -62616,6 +62611,7 @@ localizedconfig
 localizations
 local-p-gorlewar
 local-guillaume
+loans
 loandepot
 loadtestrelease
 loadtesting
@@ -71016,7 +71012,6 @@ f-7253
 ezyvet
 ezrms
 ezproxy
-ezepos
 eysb
 eyezsoak
 eyezqa2
@@ -72276,7 +72271,6 @@ dev-eks
 dev-ecosystem
 dev-dealer-graphql
 dev-dataretention
-dev-dashboard
 dev-cloudinfra-gw
 dev-clinic
 dev-businessobjects
@@ -74192,7 +74186,6 @@ bally
 ballistic-dev
 ballistic
 balance
-bakong
 baikal
 bahost
 badge-api2
@@ -76523,7 +76516,6 @@ wee-service-core-app-prod
 wec-prod
 webupdate
 webui
-webtrading
 webtao-alb
 webswing
 websub-api-fc
@@ -77754,7 +77746,6 @@ vbuwebsite-alb-1368644440
 vblw6nd6sb4aiz3sdkdjhdhpjp5iaei73
 vb-sandbox
 vb-backend
-vb
 vaxmap-ecs-api
 vauw
 vault03
@@ -84562,7 +84553,6 @@ tree
 tre
 travelmcp
 travelinedata
-traveler
 traveled-route-lite
 travelbank
 travelai
@@ -84883,7 +84873,6 @@ tnzam3xqnhvsy
 tnusrb
 tnsng
 tnpartner-dev-ec2
-tnlrs-cms
 tngapd
 tnadler
 tmykola
@@ -85213,8 +85202,6 @@ testsapr82
 tests
 testrke2-c07ab7e8c5abe87e
 testredirect
-testqpsprweb
-testqpsapp
 testpoc
 testpe1
 testoidc
@@ -85225,7 +85212,6 @@ testnatka2-us-1-zpf1
 testnatka2-us-1-pkpf
 testnatka2-us-1-f7lv
 testmuseum
-testmpsapp
 testmonisahw
 testmed1
 testloadbalancer-1985077215
@@ -87085,10 +87071,8 @@ ss20240903
 ss-wrkspc
 ss-uiproxy
 ss-subscription-ui
-ss-pro
 ss-payments-ui-node
 ss-lb
-ss-dev
 ss-demo-ui
 srvvip-13-745987326
 srvc50api-dev-v2-framy-stage
@@ -89134,7 +89118,6 @@ selfservice-us-perf
 selfservice-eu-staging
 selfservice-eu-prod
 selfservice-dev
-selfcareapi
 selfanalysis
 selfactivation-token
 self-serve-demo-api
@@ -89234,7 +89217,6 @@ seat
 seass01
 searx
 searchv2
-searchapi
 searchadmin
 search2b
 search026
@@ -89543,7 +89525,6 @@ saws-authentication
 savings-market-data
 savings-gold
 savings-car-rental
-savingford
 saves
 savages-dev
 sav
@@ -92448,7 +92429,6 @@ recyclezones
 recurly-subscription-service
 rector-api
 rector
-recruitment-webservice
 recruitment
 recruiting
 recording
@@ -92920,8 +92900,6 @@ qr-generator
 qqq
 qq5r5pwjwvqrm
 qpwcnups-364515276
-qpsprweb
-qpsapp
 qps-userfunctions-use1
 qps-userfunctions-euw1
 qps-userfunctions
@@ -93066,13 +93044,10 @@ qa-us-west-2
 qa-us-east-1
 qa-ucom-fraudvas
 qa-ucc-services
-qa-traveler
 qa-testmodel-fashion
 qa-testing
 qa-tcpfwd-fraudvas
 qa-superior-eu
-qa-store-cms
-qa-store
 qa-standard
 qa-staging
 qa-stable
@@ -93080,10 +93055,8 @@ qa-solr-master-alb
 qa-solr-external-alb
 qa-snow-mountain-service
 qa-snow-mountain
-qa-selfcareapi
 qa-security
 qa-scheduler
-qa-s3
 qa-rules-fraudvas
 qa-rm-classic
 qa-rdg
@@ -93100,12 +93073,10 @@ qa-na-ecs
 qa-na
 qa-mpa-core-ui
 qa-mpa-core-apollo
-qa-motsim
 qa-mf-packages
 qa-meeting-service
 qa-mateco
 qa-mastapi
-qa-mapp
 qa-long-term-b4542531ec7e4b15
 qa-internal-alb
 qa-il4-o11y-us-east-2-os-nginx
@@ -93115,15 +93086,10 @@ qa-hugo
 qa-hec
 qa-global-mpa-core-ui
 qa-global-mpa-core-apollo
-qa-getsimnow
-qa-getsim
-qa-getesim
-qa-find-jobs
 qa-fiduciary-manager-ui
 qa-fe-ecs
 qa-fe
 qa-fc-bff
-qa-fast24
 qa-external-alb
 qa-eu-west-3
 qa-eu-west-1
@@ -93145,8 +93111,6 @@ qa-deloitte-dataflow
 qa-console
 qa-connectid-s2s-analytics
 qa-configuration
-qa-cms-wifix
-qa-cms-selfcare-v2
 qa-clx-fraudvas-3ds
 qa-clx-fraudvas
 qa-clover-fraudvas
@@ -93154,11 +93118,9 @@ qa-chub-fraudvas
 qa-chocolate-southamerica-east1-capi
 qa-chat-service
 qa-cell2-us-east-1
-qa-ccpg
 qa-cas
 qa-carry
 qa-buypass-fraudvas
-qa-blindspot
 qa-bff-ui
 qa-audit-services
 qa-argoperf-kmsui
@@ -93182,8 +93144,6 @@ qa-9
 qa-8
 qa-7
 qa-6
-qa-5gwifi
-qa-5gesim
 qa-22
 qa-21
 qa-20
@@ -96881,7 +96841,6 @@ openvpn-cluster-tunnel-dad631f3d466a3fe
 openvpn-alb-main-use1
 openstreetmap
 opensourceofficedev
-opensis
 openshop-shop-qa-internal2
 openshop-shop-qa-internal1
 openshop-shop-qa
@@ -96989,7 +96948,6 @@ oo-alb
 ontrack-alb-develop-1196797715
 ontoserver
 ont
-onsitevisit
 onsite-tag-logs
 onsite-dev
 onrlrx
@@ -98696,7 +98654,6 @@ napoli-wallet-alb-1131073155
 nanton
 nantes
 nantan
-nanoloan
 nano-socket
 nano-rest
 nano-dashboard-backend
@@ -98934,7 +98891,6 @@ my-212d143703dc47dc810ffc0356d020ac
 my-1e64da35a1fe44df9b61d1c48762c063
 mxtools
 mxp-prod
-mxm
 mxly
 mxie-lab
 mxgimpel-mailsrv
@@ -100344,7 +100300,6 @@ mpulse
 mpu-test
 mpt-api
 mpt
-mpsapp
 mps-vadim-matlabpr-193pyu0yvg42k-1951996351
 mps-project
 mps-dlwt-pdev
@@ -100395,7 +100350,6 @@ mountainec
 mouldarchive-canary
 mouldarchive
 motto-scheduling-v2
-motsim
 motorweb-core
 motorstate-api
 motorstate
@@ -100421,7 +100375,6 @@ morido
 moriasp1
 morgans-apac
 morgana
-morakot
 mops-console
 mopa-alb-320355721
 mooringspt
@@ -101242,7 +101195,6 @@ megatron-docker
 megastore-ingest-admin
 mega-controller
 mega-cc-poc
-mef-bakong
 meetings
 meeting-request-service-production
 meeting-request-service-core-app-prod
@@ -103586,7 +103538,6 @@ mbhalodi2
 mbhalodi
 mbg2-micollabx
 mbfs-aws-acc
-mbela
 mbdcp-alb
 mbas-prod
 mbas-int
@@ -103948,6 +103899,7 @@ mailhub
 mailhog-alb-bpm-auth
 mailer-services
 mailchimp
+mail2
 mail1c
 mail1b
 mail1a-dr
@@ -107146,7 +107098,6 @@ khurram
 khunc7i7ohgmo
 khub
 khramdrm1iocu
-khqr
 khoslaventures
 kho5mue5l5et8
 khmqbgbyw597p
@@ -124910,7 +124861,6 @@ in4ruahdtbf2a
 in1-zpa-java-pg
 in1
 in0lr69mmatb6
-in-wintertime-desire-is-over-bearing
 in-oneapp
 in-fc584d3aef49462c80c94c8e212d307e
 in-fb4455bf98da4b5cbe3a43ef1369e543
@@ -127708,7 +127658,6 @@ hr3exkj76k3pg
 hr3dh4ncfcgcs
 hr0dkd4vf9f4q
 hr0b7i4d2icfg
-hr-webportal
 hr-self-serve
 hr-payroll
 hr-n8n
@@ -130091,7 +130040,6 @@ gmcejvb9nuijm
 gmcconfig
 gmb8p95anr6km
 gmb5xd0805zsc
-gmatrix
 gmalkov
 gm9m0h3v28io4
 gm947mq2qb32o
@@ -130552,13 +130500,11 @@ geyj0x0zw087c
 gewinnspiel
 gew25rs3h27zt
 getwingwork
-getsimnow
 getphoto
 getnk9rk1pe2o
 geti
 gethelp-dev
 geth
-getesim
 get30gksqa5ta
 get2
 get01
@@ -132568,7 +132514,6 @@ finest
 fineract
 findmentorssl-1059055041
 finder-pact-broker
-find-jobs
 find-business-regulations
 finapps
 finantial
@@ -133832,7 +133777,6 @@ fastcat
 fastapi-uhc-test-3
 fastapi-sagemaker-alb-97374500
 fastapi-alb-350119304
-fast24
 fast-similarity-search
 fast-npaw-3
 fast-npaw-2
@@ -202021,7 +201965,6 @@ e000efb04e2ef0f1c4d58309ca9477a2
 e-yoyaku
 e-umm
 e-search
-e-learning-platform
 e-learning
 e-forms
 dzx25dnt71kvr
@@ -202046,7 +201989,6 @@ dynatrace-alb-1029145222
 dynapar
 dynamo-public
 dynamictrack
-dynamictms
 dynamics
 dynamicblast
 dynamic-throttling
@@ -203071,7 +203013,6 @@ doc-processor-alb-dev-1348901807
 doc-instant-search-poc-v2
 doc-instant-dev-us-east-1
 doc-auditor
-doc-api
 dob-ds-dev
 do90seh1qe048
 do6hp6t95v0jg
@@ -204580,6 +204521,7 @@ dev-de-he
 dev-dds
 dev-dbu
 dev-data-entry
+dev-dashboard
 dev-darwin
 dev-dach-drupal-ebalb
 dev-d10-template-drupal-ebalb
@@ -206208,7 +206150,6 @@ data-assessment-dashboard
 data-assessment
 data-api-dev
 data-api-aat
-data-admin
 data-adapter
 data-acquisition
 data-5
@@ -208681,7 +208622,6 @@ custodian
 custcomm-api-v2
 cust1-uat
 cusp
-cuscen
 cusbl1knj2vk8
 cus-xi11te
 cus-hhgost
@@ -210287,9 +210227,7 @@ cms1
 cms-web
 cms-uat-api
 cms-test
-cms-store
 cms-stage-api
-cms-selfcare-v2
 cms-sd
 cms-s
 cms-media-cdn
@@ -210301,7 +210239,6 @@ cms-configurator-nonprod-tests
 cms-configurator-nonprod
 cms-clickmap-prod-tests
 cms-clickmap-nonprod-tests
-cms-ccpg
 cms-angel
 cmrs
 cmrmd6mfr619u
@@ -212542,7 +212479,6 @@ ccs3
 ccr6p07wqjhxt
 ccpvaultupgrade
 ccprod5
-ccpg
 ccp01
 ccoiqs2fmu3j6
 ccodev
@@ -213407,7 +213343,6 @@ cagoe
 cages
 cagdrrdfr1bd6
 cag
-cafiu
 cafenergyleasing
 cafederate-selmfa
 cafederate-alb
@@ -225993,7 +225928,6 @@ be-uk
 be-staging
 be-stage2
 be-pneus
-be-otp
 be-offres
 be-md
 be-gol1222
@@ -228703,7 +228637,6 @@ bas7stsj3baba
 bas75
 bas4pg3bk75ie
 baryon
-barun-crm-api
 bartow
 barqueue
 barometric
@@ -228754,8 +228687,6 @@ balboa
 bala-hcp1
 bakyp59w7vpn4
 bakvcvevq6sbk
-bakong-uat
-bakong-academy
 baklava-api-beta
 baklava-api-alpha
 bake
@@ -240397,7 +240328,6 @@ apipre
 apiportal-eu-int
 apiplatformteam
 apio-brunei
-apinanoloan
 apimgt
 apimain
 apim-sandpit
@@ -241089,7 +241019,6 @@ api-fta-dev-v1-k8s-local-qt3hkg-1e3f0cde4a52f89f
 api-front
 api-fpg-ingauge-prod-ec-a-r9kvaf-160155392
 api-fp-cluster-k8s-local-lfee9i-f31db0eee1026f44
-api-fleet
 api-fengwa-k8s-local-rjb9hu-2101133955
 api-feiam-stg00-gc
 api-facade-evsdev
@@ -251735,7 +251664,6 @@ amwew1xunp01
 amt
 amstest
 amssg
-amssc
 amspre
 amsna
 amsfmcujllu8s
@@ -251755,7 +251683,6 @@ amqps-prd
 amqp
 amqg15ttnkpg0
 amq5517c3ejt6
-ampp
 ampod
 ampmetrics
 amplitude-go-qa
@@ -251770,7 +251697,6 @@ ammp-products-prod-tcp-iad
 ammp-products-prod
 ammos-dev
 ammktcoa55k4e
-ammc
 ammattilainen
 amm-prod
 amm-devnet
@@ -274399,7 +274325,6 @@ a-01
 5h1wtf
 5h1a166tjc4v6
 5h0rrqobu94ru
-5gwifi
 5gvhpmhp1mag6
 5gvhb8cg9nl32
 5gtpbsup1fqrm
@@ -274411,7 +274336,6 @@ a-01
 5gn231famqax0
 5ggifidot52g6
 5gf346hoqhdf4
-5gesim
 5gemshrc7rsqi
 5gd4jtdho8kbm
 5gcikfaq9hmmk
